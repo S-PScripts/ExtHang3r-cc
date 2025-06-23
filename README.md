@@ -1,3 +1,6 @@
+## exthang3r with the classroom.cloud extension as an option to hang
+## this commit is now merged so use the actual exthang3r website instead
+
 # ExtHang3r
 
 ## What is it?
